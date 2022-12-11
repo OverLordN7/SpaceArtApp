@@ -23,7 +23,7 @@ The application requires:
 
 ## Credits
 A great thanks to [@windchaser](https://www.freeimages.com/photo/big-apple-1056753), [@hisks](https://www.freeimages.com/photo/peacock-1169961), [@just4you](https://www.freeimages.com/photo/gerber-and-rose-2-1544099), [@adamci](https://www.freeimages.com/photo/cliff-over-indian-ocean-152086) for giving such wonderful photos.
-And [#AndroidBasic](https://developer.android.com/courses/android-basics-compose/unit-3) for such fascinating course.
+And [#AndroidBasic](https://developer.android.com/courses/android-basics-compose/course) for such fascinating course.
 
 ## License
 MIT License
