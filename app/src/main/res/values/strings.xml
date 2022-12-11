@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">SpaceArtApp</string>
+
+    <string name="picture_name_1">Modern architecture building in New York, the big apple.</string>
+    <string name="picture_author_1">windchaser</string>
+
+    <string name="picture_name_2">Colourful and beautiful bird - peacock</string>
+    <string name="picture_author_2">hisks</string>
+
+    <string name="picture_name_3">Pink and orange gerberas in the foreground.</string>
+    <string name="picture_author_3">just4you</string>
+
+    <string name="picture_name_4">Mossel Bay, South Africa.</string>
+    <string name="picture_author_4">adamci</string>
 </resources>
